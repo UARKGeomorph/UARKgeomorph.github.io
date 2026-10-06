@@ -35,7 +35,7 @@ title: "Research"
   }
 </style>
 
-## Soil Erosion in Agricultural Landscapes
+## How much soil have humans eroded through agriculture?
 <div class="topic">
 <div class="topic-text">
     Some of our research involves using satellite imagery and high-resolution topographic data to investigate processes that shape the Earth's surface. We use remote sensing techniques to study how modern farming practices have altered soils. You can read more about these projects at (<a href="https://www.pnas.org/doi/10.1073/pnas.1922375118"><b>Thaler et al., 2021; PNAS</b></a>).
@@ -48,7 +48,7 @@ title: "Research"
   </figure>
 </div>
 
-## Hillslope soil fluxes and carbon storage in permafrost landscapes
+## How does carbon move around hillslopes in permafrost landscapes?
 <div class="topic">
 <div class="topic-text">
     We are using measurements of soil carbon and nitrogen and hillslope soil fluxes to understand how soils and carbon move across hillslopes in permafrost terrains. We've found that there seems to be an optimum hillslope soil flux for carbon storage. 
@@ -56,10 +56,18 @@ title: "Research"
   <img src="/images/permafrosthillslopecarbon.jpg" alt="Permafrost hillslope">
 </div>
 
-## Snow remote sensing
+## Can we build better methods to estimate snow characteristics using satellites?
 <div class="topic">
   <div class="topic-text">
     We developed an algorithm called the Blue Snow Threshold algorithm, which dynamically sets a threshold blue reflectance value to separate snow and non-snow pixels . Now, because we are only using blue wavelengths, we can use high-resolution satellites to actually map the distribution of snow on the landscape throughout the year. This approach can be especially use to understand changing snow patterns in tundra ecosystems.
   </div>
   <img src="/images/bst_example.png" alt="BST">
+</div>
+
+## What controls bedrock channel steepness?
+<div class="topic">
+  <div class="topic-text">
+
+  </div>
+  <img src="/images/buffalosteepness.jpg" alt="BST">
 </div>

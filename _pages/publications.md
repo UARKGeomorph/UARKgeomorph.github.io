@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 *Student-led manuscript
+====
 **Thaler, E.A**, Del Vecchio, J.M., Fiolleau, S., Farley, M.A., Dafflon, B. Rowland, J.C. Linking hillslope soil fluxes to soil carbon dynamics in permafrost landscapes. In review. Earth’s Future
 
 **Thaler, E.A.**, Dunham, J.B., Gallagher, B.K., Alford, S. B., Flitcroft, R. L., Roon, D. A., Bladon, K. D. A Spatial Framework for the Assessment of Aquatic Ecosystem Vulnerability to Wildfire: A Case Study of Bull Trout (Salvelinus Confluentus). In review. Ecosphere
