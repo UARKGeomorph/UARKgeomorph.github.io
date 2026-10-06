@@ -42,7 +42,7 @@ redirect_from:
 ### Evan Thaler
 <div class="person">
   <div class="person-header">
-    <img src="images/Thaler_GithubCrop.jpeg">
+    <img src="/images/Thaler_GithubCrop.jpeg">
       <p>
         <a href="mailto:ethaler@uark.edu"><!--<i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> -->Email</a> <br>
         <a href="https://scholar.google.com/citations?user=mq5Nj-kAAAAJ&hl=en"><!--<i class="ai ai-google-scholar-square ai-fw"></i> -->Google Scholar</a><br>
