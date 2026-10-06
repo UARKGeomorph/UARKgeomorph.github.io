@@ -36,9 +36,8 @@ title: "Research"
 </style>
 
 ## Soil Erosion in Agricultural Landscapes
-
 <div class="topic">
-  <div class="topic-text">
+<div class="topic-text">
     Some of our research involves using satellite imagery and high-resolution topographic data to investigate processes that shape the Earth's surface. We use remote sensing techniques to study how modern farming practices have altered soils. You can read more about these projects at (<a href="https://www.pnas.org/doi/10.1073/pnas.1922375118"><b>Thaler et al., 2021; PNAS</b></a>).
   </div>
   <figure>
@@ -50,16 +49,14 @@ title: "Research"
 </div>
 
 ## Hillslope soil fluxes and carbon storage in permafrost landscapes
-
 <div class="topic">
-  <div class="topic-text">
+<div class="topic-text">
     We are using measurements of soil carbon and nitrogen and hillslope soil fluxes to understand how soils and carbon move across hillslopes in permafrost terrains.
   </div>
   <img src="/images/permafrosthillslopecarbon.jpg" alt="Permafrost hillslope">
 </div>
 
 ## Snow remote sensing
-
 <div class="topic">
   <div class="topic-text">
     Description coming soon.
