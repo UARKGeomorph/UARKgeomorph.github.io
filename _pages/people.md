@@ -42,7 +42,7 @@ redirect_from:
 ### Evan Thaler
 <div class="person">
   <div class="person-header">
-    <img src="../images/profiles/Thaler_GithubCrop.jpeg">
+    <img src="images/Thaler_GithubCrop.jpeg">
       <p>
         <a href="mailto:ethaler@uark.edu"><!--<i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> -->Email</a> <br>
         <a href="https://scholar.google.com/citations?user=mq5Nj-kAAAAJ&hl=en"><!--<i class="ai ai-google-scholar-square ai-fw"></i> -->Google Scholar</a><br>
@@ -51,15 +51,15 @@ redirect_from:
   </div>
   <div class="bio-text">
     Evan is the lead PI of the ABC lab 
-    He is an Assistant Professor at the <a href="https://uark.edu">University of Arkansas</a> in the <a href="https://geosciences.uark.edu">Geosciences Department</a>, and is also  affiliated with the <a href="https://environmental-dynamics.uark.edu/">Environmental Dynamics Program</a>.
+    He is an Assistant Professor at the <a href="https://uark.edu">University of Arkansas</a> in the <a href="https://geosciences.uark.edu">Geosciences Department</a>, and is also  affiliated with the <a href="https://environmental-dynamics.uark.edu/">Environmental Dynamics Program</a>. We're looking for students. Please email about current student opportunities.
   </div>  
 </div>
 
 
-## Current Students
+<!-- ## Current Students
 <hr>
 
-### First student
+### First student 
 <div class="person">
   <div class="person-header">
     <img src="">
@@ -71,7 +71,7 @@ redirect_from:
   <div class="bio-text">
     Student bio
   </div>
-</div>
+</div> -->
 
-## Alumni
-<hr>
+<!-- ## Alumni
+<hr> -->
