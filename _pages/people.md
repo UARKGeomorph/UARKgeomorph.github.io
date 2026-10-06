@@ -51,8 +51,7 @@ redirect_from:
   </div>
   <div class="bio-text">
     Evan is the lead PI of the ABC lab 
-    He is an Assistant Professor at the <a href="https://uark.edu">University of Arkansas</a> in the <a href="https://geosciences.uark.edu">Geosciences Department</a>. 
-    He is also affiliated with the <a href="https://endy.uark.edu/">Environmental Dynamics Program</a>.
+    He is an Assistant Professor at the <a href="https://uark.edu">University of Arkansas</a> in the <a href="https://geosciences.uark.edu">Geosciences Department</a>, and is also  affiliated with the <a href="https://environmental-dynamics.uark.edu/">Environmental Dynamics Program</a>.
   </div>  
 </div>
 
