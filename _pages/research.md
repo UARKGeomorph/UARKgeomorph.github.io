@@ -40,8 +40,6 @@ title: "Research"
 ## Soil Erosion in Agricultural Landscapes
 <div class="topic">
   <div class="topic-header">
-    <img src="../images/scv2.jpg">
-  </div>
   <div class="topic-text">
 		Some of our research involves using satellite imagery and high-resolution topographic data to investigate processes that shape the Earth's surface. We use remote sensing techniques to
 		study how modern farming practices have altered soils.
@@ -49,7 +47,7 @@ title: "Research"
   	<figure alt="Grid" style="width:600px;height:640px;padding-bottom:10px;margin: auto;">
 		<iframe src="https://www.google.com/maps/embed/v1/view?key=AIzaSyBmdm5Cwi2NfHEp3zqLZwoZknQTIH9N7UY&center=43.063766,-94.320127&zoom=16&maptype=satellite" width="600" height="600" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 		<figcaption style="text-align:left">
-			<b>Fig. 1</b> Satellite image of plowed agricultural field. See the pattern of light and dark-colored soils? Those elight-colored soils are heavily eroded portions of the fields
+			Satellite image of plowed agricultural field. See the pattern of light and dark-colored soils? Those elight-colored soils are heavily eroded portions of the fields
 		<br />
 		</figcaption>
 	</figure>
