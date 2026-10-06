@@ -16,7 +16,7 @@ author_profile: true
 
 Contributing author: United Nations FAO and ITPS. 2025. Status of the World’s Soil Resources 2026. Chapter 12 Regional assessment for North America region. Rome, Italy. 2026
 
-Swartz, A.G., Coble, A.A., Thaler, E.A. and Warren, D.R., 2024. Quantifying the Variability of “Fixed-Width” Buffers on Harvested Lands in Western Oregon and Washington. Journal of Forestry, p.fvae018.
+Swartz, A.G., Coble, A.A., **Thaler, E.A.** and Warren, D.R., 2024. Quantifying the Variability of “Fixed-Width” Buffers on Harvested Lands in Western Oregon and Washington. Journal of Forestry, p.fvae018.
 
 **Thaler, E.A.**, Uhleman, S., Rowland, J.C., Schwenk, J., Wang, C., Dafflon, B. and Bennett, K.E., 2023. High‐Resolution Maps of Near‐Surface Permafrost for Three Watersheds on the Seward Peninsula, Alaska Derived from Machine Learning. Earth and Space Science, 10(12), p.e2023EA003015.
 
@@ -45,8 +45,7 @@ Perne, M, Covington, M.D., **Thaler, E.A.**, and Myre, J.M. 2017.
 Steady state, erosional continuity, and the topography of landscaped developed
 in layered rocks. Earth Surf. Dynamics, 5, 1-16. Doi:10.5194/esurf-5-1-2017. 
 
-Keen-Zebert, A., Shepherd, S., Hudson, M., **Thaler, E. A.** 2017. The Effect of Lithology on Valley Width, Terrace Distribution, and Coarse Sediment Provenance In a Tectonically Stable Catchment with Flat-Lying Stratigraphy. Earth Surface
-Processes and Landforms, doi: 10.1002/esp/4116. 
+Keen-Zebert, A., Shepherd, S., Hudson, M., **Thaler, E. A.** 2017. The Effect of Lithology on Valley Width, Terrace Distribution, and Coarse Sediment Provenance In a Tectonically Stable Catchment with Flat-Lying Stratigraphy. Earth Surface Processes and Landforms, doi: 10.1002/esp/4116. 
 
 **Thaler, E. A.** and M. D. Covington. 2016. The Influence of Sandstone Caprock Material on Bedrock Channel Steepness within a Tectonically Passive Setting: Buffalo National River Basin, Arkansas, USA. Journal of Geophysical Research: Earth Surface 121 (9): 1635-1650.
 

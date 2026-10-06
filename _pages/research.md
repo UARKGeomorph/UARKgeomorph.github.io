@@ -59,6 +59,7 @@ title: "Research"
 ## Snow remote sensing
 <div class="topic">
   <div class="topic-text">
-    Description coming soon.
+    We developed an algorithm called the Blue Snow Threshold algorithm, which dynamically sets a threshold blue reflectance value to separate snow and non-snow pixels . Now, because we are only using blue wavelengths, we can use high-resolution satellites to actually map the distribution of snow on the landscape throughout the year. This approach can be especially use to understand changing snow patterns in tundra ecosystems.
   </div>
+  <img src="/images/bst_example.png" alt="BST">
 </div>
