@@ -6,14 +6,15 @@ author_profile: true
 ---
 
 *Student-led manuscript
-**Thaler, E.A**, Del Vecchio, J.M., Fiolleau, S., Farley, M.A., Dafflon, B. Rowland, J.C. <br> Linking hillslope soil fluxes to soil carbon dynamics in permafrost landscapes. <br> In review. Earth’s Future
+**Thaler, E.A**, Del Vecchio, J.M., Fiolleau, S., Farley, M.A., Dafflon, B. Rowland, J.C. Linking hillslope soil fluxes to soil carbon dynamics in permafrost landscapes. In review. Earth’s Future
 
 **Thaler, E.A.**, Dunham, J.B., Gallagher, B.K., Alford, S. B., Flitcroft, R. L., Roon, D. A., Bladon, K. D. A Spatial Framework for the Assessment of Aquatic Ecosystem Vulnerability to Wildfire: A Case Study of Bull Trout (Salvelinus Confluentus). In review. Ecosphere
 
 *Pimont, C., **Thaler, E.A.**, Ebel, B.A. and Bladon, K.D., 2026. Effects of wildfire on soil hydraulic properties in the Western Oregon Cascades. Journal of Geophysical Research: Biogeosciences, 131(5), p.e2025JG009611.
 
 *Farley, M.S., **Thaler, E.A.**, Fiolleau, S., Dafflon, B., Vecchio, J.D., Wang, C., Crumley, R., Bennett, K.E., Iversen, C.M. and Rowland, J.C., 2026. Vegetation heterogeneity reflects soil thermal state and surface soil displacement in a thawing permafrost landscape. Environmental Research: Ecology, 5(2), p.025002.
-Contributing Author: United Nations FAO and ITPS. 2025. Status of the World’s Soil Resources 2025 - Main report. Rome, Italy. in press
+
+Contributing author: United Nations FAO and ITPS. 2025. Status of the World’s Soil Resources 2026. Chapter 12 Regional assessment for North America region. Rome, Italy. 2026
 
 Swartz, A.G., Coble, A.A., Thaler, E.A. and Warren, D.R., 2024. Quantifying the Variability of “Fixed-Width” Buffers on Harvested Lands in Western Oregon and Washington. Journal of Forestry, p.fvae018.
 
