@@ -5,15 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-*Student-led manuscript
-====
+
 **Thaler, E.A**, Del Vecchio, J.M., Fiolleau, S., Farley, M.A., Dafflon, B. Rowland, J.C. Linking hillslope soil fluxes to soil carbon dynamics in permafrost landscapes. In review. Earth’s Future
 
 **Thaler, E.A.**, Dunham, J.B., Gallagher, B.K., Alford, S. B., Flitcroft, R. L., Roon, D. A., Bladon, K. D. A Spatial Framework for the Assessment of Aquatic Ecosystem Vulnerability to Wildfire: A Case Study of Bull Trout (Salvelinus Confluentus). In review. Ecosphere
 
-*Pimont, C., **Thaler, E.A.**, Ebel, B.A. and Bladon, K.D., 2026. Effects of wildfire on soil hydraulic properties in the Western Oregon Cascades. Journal of Geophysical Research: Biogeosciences, 131(5), p.e2025JG009611.
+Pimont, C., **Thaler, E.A.**, Ebel, B.A. and Bladon, K.D., 2026. Effects of wildfire on soil hydraulic properties in the Western Oregon Cascades. Journal of Geophysical Research: Biogeosciences, 131(5), p.e2025JG009611.
 
-*Farley, M.S., **Thaler, E.A.**, Fiolleau, S., Dafflon, B., Vecchio, J.D., Wang, C., Crumley, R., Bennett, K.E., Iversen, C.M. and Rowland, J.C., 2026. Vegetation heterogeneity reflects soil thermal state and surface soil displacement in a thawing permafrost landscape. Environmental Research: Ecology, 5(2), p.025002.
+Farley, M.S., **Thaler, E.A.**, Fiolleau, S., Dafflon, B., Vecchio, J.D., Wang, C., Crumley, R., Bennett, K.E., Iversen, C.M. and Rowland, J.C., 2026. Vegetation heterogeneity reflects soil thermal state and surface soil displacement in a thawing permafrost landscape. Environmental Research: Ecology, 5(2), p.025002.
 
 Contributing author: United Nations FAO and ITPS. 2025. Status of the World’s Soil Resources 2026. Chapter 12 Regional assessment for North America region. Rome, Italy. 2026
 
@@ -21,7 +20,7 @@ Swartz, A.G., Coble, A.A., **Thaler, E.A.** and Warren, D.R., 2024. Quantifying 
 
 **Thaler, E.A.**, Uhleman, S., Rowland, J.C., Schwenk, J., Wang, C., Dafflon, B. and Bennett, K.E., 2023. High‐Resolution Maps of Near‐Surface Permafrost for Three Watersheds on the Seward Peninsula, Alaska Derived from Machine Learning. Earth and Space Science, 10(12), p.e2023EA003015.
 
-*Renner, C., Conroy, N., **Thaler, E.A.**, Collins, A., Thomas, L., Dillard, S., Rowland, J. and Bennett, K., 2023. The Next-Generation Ecosystem Experiment Arctic Rainfall Simulator: a tool to understand the effects of changing rainfall patterns in the Arctic. Hydrology Research, p.nh2023146.
+Renner, C., Conroy, N., **Thaler, E.A.**, Collins, A., Thomas, L., Dillard, S., Rowland, J. and Bennett, K., 2023. The Next-Generation Ecosystem Experiment Arctic Rainfall Simulator: a tool to understand the effects of changing rainfall patterns in the Arctic. Hydrology Research, p.nh2023146.
 
 Uhlemann, S., Shirley, I., Wielandt, S., Ulrich, C., Wang, C., Fiolleau, S., Peterson, J., Lamb, J., **Thaler, EA.**, Rowland, J. and Hubbard, S.S., 2023. Estimating Permafrost Distribution Using Co‐Located Temperature and Electrical Resistivity Measurements. Geophysical Research Letters, 50(17), p.e2023GL103987.
 

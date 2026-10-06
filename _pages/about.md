@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to the website for a research lab that will soon have a super cool name"
+title: "Welcome to UARK Geomorphology Group"
 author_profile: true
 redirect_from: 
   - /about/
