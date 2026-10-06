@@ -51,7 +51,7 @@ title: "Research"
 ## Hillslope soil fluxes and carbon storage in permafrost landscapes
 <div class="topic">
 <div class="topic-text">
-    We are using measurements of soil carbon and nitrogen and hillslope soil fluxes to understand how soils and carbon move across hillslopes in permafrost terrains.
+    We are using measurements of soil carbon and nitrogen and hillslope soil fluxes to understand how soils and carbon move across hillslopes in permafrost terrains. We've found that there seems to be an optimum hillslope soil flux for carbon storage. 
   </div>
   <img src="/images/permafrosthillslopecarbon.jpg" alt="Permafrost hillslope">
 </div>
