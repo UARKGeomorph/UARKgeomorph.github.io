@@ -23,7 +23,7 @@ repository               : "UARKgeomorph/UARKgeomorph.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpeg"
   name             : "PEDAL lab"
   pronouns         : # example: "she/her"  
   bio              : "The PEDAL lab studies landscape change in a variety of cool landscapes using field data, remote sensing, and statistical modeling."
