@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to UARK Geomorphology Group"
+title: "Welcome to the PEDAL (Processes of Erosion and Deposition in Awesome Landscapes) Lab"
 author_profile: true
 redirect_from: 
   - /about/
