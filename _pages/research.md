@@ -59,15 +59,24 @@ title: "Research"
 ## Can we build better methods to estimate snow characteristics using satellites?
 <div class="topic">
   <div class="topic-text">
-    We developed an algorithm called the Blue Snow Threshold algorithm, which dynamically sets a threshold blue reflectance value to separate snow and non-snow pixels . Now, because we are only using blue wavelengths, we can use high-resolution satellites to actually map the distribution of snow on the landscape throughout the year. This approach can be especially use to understand changing snow patterns in tundra ecosystems.
+    We developed an algorithm called the <a href="https://www.sciencedirect.com/science/article/pii/S0034425722005090"><b>Blue Snow Threshold algorithm</b></a>, which dynamically sets a threshold blue reflectance value to separate snow and non-snow pixels . Now, because we are only using blue wavelengths, we can use high-resolution satellites to actually map the distribution of snow on the landscape throughout the year. This approach can be especially use to understand changing snow patterns in tundra ecosystems.
   </div>
   <img src="/images/bst_example.png" alt="BST">
+</div>
+
+## How good are machine learning models at mapping permafrost?
+<div class="topic">
+  <div class="topic-text">
+  We've been working on training machine learning models to 
+  <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2023EA003015"><b>make better maps of near-surface permafrost</b></a> and to determine which attributes in the landscape and ecosystem are best predictors of permafrost presence.
+  </div>
+  <img src="/images/mlmaps.jpg" alt="BST">
 </div>
 
 ## What controls bedrock channel steepness?
 <div class="topic">
   <div class="topic-text">
-
+Using the local natural laboratory, the Buffalo National River Basin, we've explored controls on bedrock channel steepness. We found that <a href="https://agupubs.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2015JF003771"><b>the presence of really big boulders</b></a>, derived from the sandstone caprock, influence where channels are the steepest. 
   </div>
   <img src="/images/buffalosteepness.jpg" alt="BST">
 </div>
