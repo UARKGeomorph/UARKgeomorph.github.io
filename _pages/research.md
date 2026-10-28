@@ -35,7 +35,7 @@ title: "Research"
   }
 </style>
 
-## How much soil have humans eroded through agriculture?
+## How much soil has humans eroded through agriculture?
 <div class="topic">
 <div class="topic-text">
     Some of our research involves using satellite imagery and high-resolution topographic data to investigate processes that shape the Earth's surface. We use remote sensing techniques to study <a href="https://www.pnas.org/doi/10.1073/pnas.1922375118"><b>how modern farming practices have altered soils</b></a>.
